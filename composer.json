@@ -1,6 +1,6 @@
 {
-  "name": "specbee/storm",
-  "description": "Specbee StormCMS",
+  "name": "specbee/storm_cms",
+  "description": "Storm CMS",
   "type": "drupal-recipe",
   "license": "GPL-2.0-or-later",
   "authors": [
