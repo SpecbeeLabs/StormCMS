@@ -9,5 +9,7 @@
       "email": "malabya@specbee.com"
     }
   ],
-  "require": {}
+  "require": {
+    "specbee/storm_cms_core": "1.x-dev"
+  }
 }
