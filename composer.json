@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "specbee/storm_cms_core": "1.x-dev"
+    "specbee/storm_cms_core": "1.x-dev",
+    "specbee/storm_cms_editor": "1.x-dev"
   }
 }
