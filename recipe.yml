@@ -4,3 +4,4 @@ recipes:
   - storm_cms_core
   - storm_cms_editor
   - storm_cms_user
+  - storm_cms_webform
