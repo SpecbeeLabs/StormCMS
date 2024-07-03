@@ -6,3 +6,4 @@ recipes:
   - storm_cms_user
   - storm_cms_webform
   - storm_cms_media
+  - storm_cms_content_types

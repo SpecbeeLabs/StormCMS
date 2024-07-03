@@ -14,6 +14,7 @@
     "specbee/storm_cms_editor": "1.x-dev",
     "specbee/storm_cms_user": "1.x-dev",
     "specbee/storm_cms_webform": "1.x-dev",
-    "specbee/storm_cms_media": "1.x-dev"
+    "specbee/storm_cms_media": "1.x-dev",
+    "specbee/storm_cms_content_types": "1.x-dev"
   }
 }
