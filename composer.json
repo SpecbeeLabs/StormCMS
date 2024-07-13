@@ -1,19 +1,21 @@
 {
-  "name": "specbee/storm_cms",
-  "description": "Storm CMS",
-  "type": "drupal-recipe",
-  "license": "GPL-2.0-or-later",
-  "authors": [
-    {
-      "name": "Malabya",
-      "email": "malabya@specbee.com"
+    "name": "specbee/storm_cms",
+    "description": "Storm CMS",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Malabya",
+            "email": "malabya@specbee.com"
+        }
+    ],
+    "require": {
+        "specbee/storm_cms_core": "1.x-dev",
+        "specbee/storm_cms_editor": "1.x-dev",
+        "specbee/storm_cms_user": "1.x-dev",
+        "specbee/storm_cms_webform": "1.x-dev",
+        "specbee/storm_cms_media": "1.x-dev",
+        "specbee/storm_cms_page": "1.x-dev",
+        "specbee/storm_cms_person": "1.x-dev"
     }
-  ],
-  "require": {
-    "specbee/storm_cms_core": "1.x-dev",
-    "specbee/storm_cms_editor": "1.x-dev",
-    "specbee/storm_cms_user": "1.x-dev",
-    "specbee/storm_cms_webform": "1.x-dev",
-    "specbee/storm_cms_media": "1.x-dev"
-  }
 }
