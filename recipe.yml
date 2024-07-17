@@ -8,3 +8,4 @@ recipes:
   - storm_cms_page
   - storm_cms_person
   - storm_cms_article
+  - storm_cms_event

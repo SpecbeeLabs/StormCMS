@@ -13,6 +13,7 @@
         "specbee/storm_cms_article": "1.x-dev",
         "specbee/storm_cms_core": "1.x-dev",
         "specbee/storm_cms_editor": "1.x-dev",
+        "specbee/storm_cms_event": "1.x-dev",
         "specbee/storm_cms_page": "1.x-dev",
         "specbee/storm_cms_person": "1.x-dev",
         "specbee/storm_cms_user": "1.x-dev",
