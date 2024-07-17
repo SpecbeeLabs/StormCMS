@@ -9,3 +9,4 @@ recipes:
   - storm_cms_content_type_base
   - storm_cms_page
   - storm_cms_person
+  - storm_cms_article
