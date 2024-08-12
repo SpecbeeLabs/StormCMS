@@ -5,8 +5,4 @@ recipes:
   - storm_cms_editor
   - storm_cms_user
   - storm_cms_webform
-  - storm_cms_content_type_base
   - storm_cms_page
-  - storm_cms_person
-  - storm_cms_article
-  - storm_cms_event
