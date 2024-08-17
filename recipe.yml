@@ -1,8 +1,16 @@
 name: Storm CMS
 description: A base profile for Drupal 10 with rich features for faster development and head start.
 recipes:
+  - storm_cms_media
+recipes:
   - storm_cms_core
   - storm_cms_editor
   - storm_cms_user
   - storm_cms_webform
   - storm_cms_page
+  - storm_cms_press_release
+  - storm_cms_person
+  - storm_cms_article
+  - storm_cms_event
+  - storm_cms_page_builder
+  - storm_cms_components
