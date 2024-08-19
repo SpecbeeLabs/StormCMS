@@ -3,7 +3,6 @@ description: A base profile for Drupal 10 with rich features for faster developm
 recipes:
   - storm_cms_core
   - storm_cms_editor
-  - storm_cms_user
   - storm_cms_media
   - storm_cms_webform
   - storm_cms_page
@@ -13,3 +12,4 @@ recipes:
   - storm_cms_event
   - storm_cms_page_builder
   - storm_cms_components
+  - storm_cms_user
